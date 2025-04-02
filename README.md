@@ -1,4 +1,4 @@
-# Iris Classification Capstone Project
+# Machine Learning Iris Classification Capstone Project
 
 This project demonstrates a complete machine learning workflow for classifying iris flower species using the Iris dataset. It covers data loading, preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and logging for traceability. This notebook was developed as a university capstone project and is intended to showcase a clear and reproducible pipeline.
 
